@@ -1,13 +1,11 @@
-# code here!
+require 'pry'
 class School 
   
   def initialized(name)
     @name = name 
   end 
   
-  def roster 
-    {}
-   end 
+binding.pry  
    
 end   
 
