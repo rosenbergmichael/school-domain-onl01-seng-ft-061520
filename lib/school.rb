@@ -1,7 +1,7 @@
 require 'pry'
 class School 
   
-  def initialized(name)
+  def initialize(name)
     @name = name 
   end 
   
