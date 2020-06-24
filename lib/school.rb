@@ -6,5 +6,7 @@ class School
     
   end 
   
+  roster = {}
+  
 end   
 
