@@ -6,8 +6,8 @@ class School
   end 
   
 
+end 
 
 binding.pry  
-   
-end   
+puts "goodbye"   
 
