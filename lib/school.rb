@@ -5,8 +5,8 @@ class School
     @name = name 
   end 
   
-  def roster
-    {}
+  def school(roster)
+    roster = {}
   end 
 
 end 
